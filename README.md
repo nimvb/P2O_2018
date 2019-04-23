@@ -9,6 +9,8 @@ These were used as zero-day exploits against macOS 10.13.3 & Safari/JSC on March
 * `/jsc` - JavaScriptCore Exploit & PoC for CVE-2018-4192
 * `/windowserver` - WindowServer Exploit & PoC for CVE-2018-4193 
 
+Awesome
+
 # License
 
 The contents of this repo are licensed and distributed under the MIT license.
